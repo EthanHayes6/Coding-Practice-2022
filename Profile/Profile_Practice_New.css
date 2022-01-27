@@ -1,0 +1,179 @@
+#Top_Half{
+    background-color: black;
+    height: 60px;
+    width: 760px;
+}
+
+.top_container{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 80%;
+}
+
+.top_container1{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+
+.button{
+    border: 3px;
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(37, 176, 231);
+    color: white;
+}
+
+#main_right{
+    border: 2px solid rgb(251, 250, 250);
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+    height: 500px;
+    width: 200px;
+}
+
+#main_left{
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 10px;
+    height: 500px;
+    width: 300px;
+    margin-left: 110px;
+}
+
+.right_top{
+    border: 2px solid rgb(141, 141, 141);
+    height: 165px;
+    width: 200px;
+}
+
+.right_bottom{
+    border: 2px solid rgb(141, 141, 141);
+    margin-top: 25px;
+    height: 300px;
+    width: 200px;
+}
+
+.left_top{
+    border: 2px solid rgb(141, 141, 141);
+    height: 290px;
+    width: 300px;
+}
+
+.l-top-half{
+    background-color: rgb(37, 176, 231);
+    height: 100px;
+    width: 300px;
+}
+
+#jane{
+    height: 80px;
+    width: 80px;
+    border-radius: 90px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#marker{
+    height: 12px;
+    width: 12px;
+}
+
+.top-content{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.Mary{
+    margin-left: 10px;
+}
+
+.left_bottom{
+    border: 2px solid rgb(141, 141, 141);
+    margin-top: 20px;
+    height: 125px;
+    width: 300px;
+}
+
+
+.edu-content1{
+    background-color: rgb(63, 61, 61);
+    padding: 10px;
+    margin: 0px;
+}
+
+.edu-content{
+    font-size: 10px;
+}
+
+.edu-content2{
+    font-size: 15px;
+}
+
+.right-top-half{
+    background-color: rgb(63, 61, 61);
+    height: 40px;
+    width: 200px;
+    display: inline-flex;
+}
+
+.number{
+    background-color: darkgrey;
+    border-radius: 90px;
+    text-align: center;
+    height: 19px;
+    width: 19px;
+}
+
+#todd{
+    height: 60px;
+    width: 60px;
+}
+
+#todd1{
+    height: 30px;
+    width: 30px;
+}
+
+#phil{
+    height: 60px;
+    width: 60px;
+}
+
+#phil1{
+    height: 30px;
+    width: 30px;
+}
+
+.right-bottom-half{
+    background-color: rgb(63, 61, 61);
+    height: 40px;
+    width: 200px;
+    display: inline-flex;
+}
+
+.number500{
+    background-color: darkgrey;
+    border-radius: 90px;
+    text-align: center;
+    height: 19px;
+    width: 35px;
+}
+
+#pics{
+    height: 60px;
+    width: 60px;
+    padding: 0px;
+    display: flex;
+}
+
+.View{
+    border: rgb(141, 141, 141) solid 2px;
+    width: 198px;
+}
