@@ -1,0 +1,65 @@
+#container{
+    border: 3px solid red;
+    height: 657px;
+    width: 1016px;
+    margin-left: 140px;
+}
+
+.top{
+    border: 2px solid magenta;
+    height: 100px;
+    width: 1016px;
+    background-color: darkorchid;
+}
+
+.right{
+    border: 2px solid orange; 
+    display: inline-block;
+    height: 550px;
+    width: 500px;
+}
+
+.left{
+    border: 2px solid cyan;
+    display: inline-block;
+    height: 550px;
+    width: 350px;
+}
+
+.ops{
+    border: 2px solid rgb(57, 65, 65);
+    background-color: rgb(54, 51, 51);
+    height: 90px;
+    width: 1000px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+
+.lab{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 40px;
+    color: ghostwhite;
+}
+
+.search{
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+    width: 500px;
+}
+
+.log{
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+    color: ghostwhite;
+    background-color: darkviolet;
+}
+
+.shadow{
+    box-shadow: 5px 5px 5px #999;
+    position: relative;
+    bottom: 5px;
+}
+

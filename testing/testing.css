@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+
+#talk{
+    text-align: center;
+    color: chartreuse;
+    font-size: 200%;
+}
+
+.squaa{
+    display: inline-block;
+    border: solid gold 2px;
+    height: 280px;
+    width: 280px;
+    margin-left: 60px;
+}

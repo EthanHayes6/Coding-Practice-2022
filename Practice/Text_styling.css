@@ -1,0 +1,46 @@
+.top {
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+    background-color: black;
+}
+
+.My {
+    color: antiquewhite;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.cloud {
+    color: rgb(16, 219, 219);
+    font-size: 25px;
+}
+
+.middle {
+    background-color: blueviolet;
+    font-family: 'Fredoka One', cursive;
+}
+
+.mid-text {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+.bottom {
+    background-color: rgb(138, 216, 241);
+    font-family: 'Fredoka One', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bottom-text {
+    text-decoration: underline;
+    display: flex;
+    justify-content: flex-end;
+    color: blueviolet;
+    margin: 5px;
+    padding: 5px;
+}

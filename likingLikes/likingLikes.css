@@ -1,0 +1,25 @@
+#box{
+    border: 2px solid black;
+    height: 280px;
+    width: 580px;
+}
+
+#count{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-left: 360px;
+}
+
+#up{
+    display: inline-block;
+}
+
+#pu{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.party{
+    font-size: 40px;
+}

@@ -1,0 +1,25 @@
+.Search {
+    border: aqua solid 1px;
+    border-radius: 50px ;
+    width: 90px;
+    color: aqua;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Plus {
+    border: 0px;
+    border-radius: 50%;
+    background-color: rgb(102, 209, 245);
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Shadow {
+    box-shadow: 2px 2px;
+    background-color: rgb(63, 147, 216);
+    margin: 5px;
+    padding: 5px;
+}
